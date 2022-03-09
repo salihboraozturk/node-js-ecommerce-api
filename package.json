@@ -1,0 +1,19 @@
+{
+  "name": "ecommerceapi",
+  "version": "1.0.0",
+  "description": "e-commerce api with nodejs and clean architecture",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Salih Bora OZTURK",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^5.22.3",
+    "sequelize-msnodesqlv8": "^0.2.6-beta.8"
+  }
+}
